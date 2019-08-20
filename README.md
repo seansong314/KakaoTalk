@@ -1,1 +1,1 @@
-# kakao-clone-v2
+# KakaoTalk clone practice
